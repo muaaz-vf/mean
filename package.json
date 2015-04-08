@@ -1,0 +1,15 @@
+{
+  "name": "mean",
+  "version": "0.0.0",
+  "description": "Learning Mean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muaaz Rafi",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.12.3",
+    "jade": "~1.9.2"
+  }
+}
